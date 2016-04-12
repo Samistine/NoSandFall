@@ -1,0 +1,6 @@
+name: NoSandFall
+version: ${project.version}-b${BUILD_NUMBER}
+description: Prevents sand and gravel from falling
+author: Black_ixx
+website: http://felix.neuby.de
+main: com.samistine.nosandfall.NoSandFall
